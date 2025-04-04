@@ -1,0 +1,19 @@
+{
+    "contacts": [
+        {
+            "name": "Trump",
+            "age": 80,
+            "email": "trump@gmail.com"
+        },
+        {
+            "name": "piyush",
+            "age": "12",
+            "email": "piyush@gmail.com"
+        },
+        {
+            "name": "pk",
+            "age": "123",
+            "email": "pk@gmail.com"
+        }
+    ]
+}
